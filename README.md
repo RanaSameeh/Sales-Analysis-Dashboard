@@ -1,5 +1,6 @@
 # Sales-Analysis-Dashboard
 Sales Analysis Dashboard (Excel)
+![Sales Dashboard](Sales_Dashboard.png)
 Project Overview
 This project presents an interactive Sales Analysis Dashboard built in Excel, designed to extract meaningful insights from transactional data and support data-driven decision-making.
 
